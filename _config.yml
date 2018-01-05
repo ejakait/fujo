@@ -84,8 +84,3 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
-
-metadata:
-  author_id: defaultAuthorId
-  language:
-  cover_index:
